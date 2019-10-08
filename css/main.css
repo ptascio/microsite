@@ -36,4 +36,33 @@ height: 400px;
 
 .btn-primary-pt {
   border-radius: 0;
+  background-color: #900026;
+  border-color: #900026;
+}
+
+.btn-primary-pt:hover,
+.btn-primary-pt:focus {
+  background-color: #fff;
+  color: #900026;
+  border-color: #900026;
+}
+
+.date-header {
+  text-transform: uppercase;
+}
+
+.important-dates {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.important-dates > li {
+  border: 1px solid #000;
+  margin: 10px 0;
+  padding: 5px 10px;
+}
+
+.footer {
+  border-top: 3px solid #900026;
+    border-bottom: 3px solid #900026;
 }
