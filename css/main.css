@@ -1,0 +1,35 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.bg-light {
+  background-color: #900026 !important;
+}
+
+img.d-inline-block.align-top {
+  width: 240px;
+  height: 50px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(255,255,255);
+}
+
+.jumbotron {
+background-image: url("../images/banner-bkgd-Iona-Campus.jpg");
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 2em 0 6em 0;
+height: 400px;
+}
+
+.container > h1,
+.container > p.lead{
+  color: #fff;
+}
+
+.card {
+  margin-bottom: 15px;
+}
