@@ -33,3 +33,7 @@ height: 400px;
 .card {
   margin-bottom: 15px;
 }
+
+.btn-primary-pt {
+  border-radius: 0;
+}
